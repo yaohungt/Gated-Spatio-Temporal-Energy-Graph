@@ -6,7 +6,7 @@ Pytorch implementation for learning an observation-Gated Spatio-Temporal Energy 
 
 Contact: Yao-Hung Hubert Tsai (yaohungt@cs.cmu.edu)
 ## Paper
-Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph<br>
+[Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](arxiv link)<br>
 [Yao-Hung Hubert Tsai](https://yaohungt.github.io), [Santosh Divvala](https://allenai.org/team/santoshd/), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and [Ali Farhadi](https://homes.cs.washington.edu/~ali/)<br>
 Computer Vision and Pattern Recognition (CVPR), 2019.
 
