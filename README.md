@@ -43,7 +43,8 @@ An overview of our Proposed Gated Spatio-Temporal Energy Graph. Given an input i
 - [Pytorch 1.0.0 and torchvision](https://pytorch.org/)
 
 ### Datasets
-- [Charades dataset](https://allenai.org/plato/charades/)
+- [Charades dataset](http://ai2-website.s3.amazonaws.com/data/Charades_v1_rgb.tar)
+- [Charades' Training and Validation Annotations](http://ai2-website.s3.amazonaws.com/data/Charades.zip)
 
 ### Pretrained Model
 - Download the [pretrained (with Kinetics Dataset) I3D](https://arxiv.org/abs/1705.07750) model [here](https://www.dropbox.com/s/r6ja11h06y2w83c/rgb_i3d_pretrained.pt?dl=0).
