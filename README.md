@@ -25,14 +25,12 @@ Please cite our paper if you find the code, dataset, or the experimental setting
 ### Relationship Reasoning in Videos
 <p align="center">
 <img src='imgs/vidvrd.png' width="400px"/>
-<\p>
 
 Visual relationship reasoning in images (top) vs. videos (bottom): Given a single image, it is ambiguous whether the **monkey** is creeping up or down the **car**. Using a video not only helps to unambiguously recognize a richer set of relations, but also model temporal correlations across them (e.g., **creep down** and **jump left**).
 
 ### Gated Spatio-Temporal Energy Graph
 <p align="center">
 <img src='imgs/GSTEG.png' width="1000px"/>
-<\p>
 
 An overview of our Proposed Gated Spatio-Temporal Energy Graph. Given an input instance (a video clip), we predict the output relationships (e.g., {**monkey, creep down, car**}, etc.,) by reasoning over a fully-connected spatio-temporal graph with nodes **S** (Subject),**P** (Predicate) and **O** (Object). Instead of assuming a non-gated (i.e., predefined or globally-learned) pairwise energy function, we explore the use of gated energy functions (i.e., conditioned on the specific visual observation).
 
