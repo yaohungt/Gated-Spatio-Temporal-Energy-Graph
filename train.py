@@ -299,7 +299,7 @@ class Trainer():
                           'Time {batch_time.val:.3f} ({batch_time.avg:.3f})'.format(
                               i, len(loader), batch_time=batch_time))
                     
-            sov_mAP, sov_rec_at_n, sov_mprec_at_n = eval_visual_relation(prediction=sov_prediction, groundtruth_path=args.groundtruth-lookup)
+            sov_mAP, sov_rec_at_n, sov_mprec_at_n = eval_visual_relation(prediction=sov_prediction, groundtruth_path=args.groundtruth_lookup)
             print(' * sov_mAP {:.3f}'.format(sov_mAP))
             print(' * sov_rec_at_n', sov_rec_at_n)
             print(' * sov_mprec_at_n', sov_mprec_at_n)
