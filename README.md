@@ -57,4 +57,4 @@ python3 exp/GSTEG.py
 ~~~~
 
 ### Acknowledgement
-A large portion of the code comes from the [Temporal Fields](https://github.com/gsig/temporal-fields/tree/master/pytorch) and [ImageNet](https://github.com/pytorch/examples/tree/master/imagenet) repo.
+A large portion of the code comes from the [Temporal Fields](https://github.com/gsig/temporal-fields/tree/master/pytorch), [VidVRD](https://github.com/xdshang/VidVRD-helper), and [ImageNet](https://github.com/pytorch/examples/tree/master/imagenet) repo.
