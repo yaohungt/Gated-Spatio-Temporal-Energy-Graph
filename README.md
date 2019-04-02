@@ -38,7 +38,7 @@ An overview of our Proposed Gated Spatio-Temporal Energy Graph. Given an input i
 
 ### Prerequisites
 - Python 3.6
-- [Pytorch 1.0.0 and torchvision](https://pytorch.org/)
+- [Pytorch and torchvision](https://pytorch.org/)
 
 ### Datasets
 - [Charades dataset](http://ai2-website.s3.amazonaws.com/data/Charades_v1_rgb.tar)
